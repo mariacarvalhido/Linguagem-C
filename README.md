@@ -1,0 +1,1 @@
+A proposta aqui é resolver os exercícios propostos no livro "Linguagem C completa e descomplicada " do André Backes afim de gerar intimidade com a linguagem e me preparar para as próximas matérias de programação na UFMG.
